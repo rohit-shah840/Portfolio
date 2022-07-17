@@ -1,3 +1,3 @@
 # Portfolio
 
-https://github.com/rohit-shah840/Portfolio
+https://rohit-shah840.github.io/Portfolio/
